@@ -14,6 +14,7 @@ The entire workflow runs using one command.
 
 
 ## Project Structure
+
 project/
 │
 ├── data/               
@@ -51,3 +52,4 @@ python main.py
 - Scraped dataset
 - Cleaned dataset
 - EDA insights and visualizations
+
